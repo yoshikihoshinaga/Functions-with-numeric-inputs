@@ -1,7 +1,6 @@
 # Functions with numeric inputs
 #Author:Yoshiki Hoshinaga
 #Date: May 21 2020
-#Title: Problem Set2, Part 2
 #
 
 

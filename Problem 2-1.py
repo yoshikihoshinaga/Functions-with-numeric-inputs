@@ -1,11 +1,6 @@
- ps2pr1.py - Problem Set 2, Problem 1
-#
-# Functions with numeric inputs
 #Author:Yoshiki Hoshinaga
 #Date: May 21 2020
-#Title: Problem Set2, Part 1
-#
-#
+
 
 # function 0
 def opposite(x):
